@@ -1,0 +1,297 @@
+,name,slug,country,whiskybase_whiskies,whiskybase_votes,whiskybase_rating
+0,8 Doors Distillery,8_doors,Scotland,2,4,86.67
+1,Abbeyhill Distillery,abbeyhill,Scotland,0,0,0.0
+2,Aberargie Distillery,aberargie,Scotland,1,0,0.0
+3,Aberfeldy,aberfeldy,Scotland,489,8155,84.05
+4,Aberlour,aberlour,Scotland,1274,28192,85.02
+5,Abhainn Dearg,abhainn_dearg,Scotland,40,423,69.96
+6,Ailsa Bay,ailsa_bay,Scotland,28,1287,81.72
+7,Aioi Unibio Co. Ltd.,aioi_unibio_co._ltd.,Japan,5,42,75.66
+8,Akkeshi Distillery,akkeshi,Japan,24,253,85.64
+9,Albyn Distillery,albyn,Scotland,0,0,0.0
+10,Allt-a-Bhainne,allt-a-bhainne,Scotland,464,3985,84.59
+11,Annandale Distillery,annandale,Scotland,117,1115,84.81
+12,Arbikie,arbikie,Scotland,9,35,81.66
+13,Ardbeg,ardbeg,Scotland,2430,96509,88.05
+14,Ardenistile,ardenistile,Scotland,0,0,0.0
+15,Ardgowan Distillery,ardgowan,Scotland,1,1,81.0
+16,Ardlussa Distillery,ardlussa,Scotland,0,0,0.0
+17,Ardmore,ardmore,Scotland,1707,18486,85.36
+18,Ardnahoe Distillery,ardnahoe,Scotland,0,0,0.0
+19,Ardnamurchan,ardnamurchan,Scotland,120,3755,85.57
+20,Argyll Distillery,argyll,Scotland,0,0,0.0
+21,Arran,arran,Scotland,2277,42627,85.4
+22,Asaka,asaka,Japan,18,21,85.78
+23,Auchentoshan,auchentoshan,Scotland,1270,16535,84.05
+24,Auchnagie,auchnagie,Scotland,2,11,84.44
+25,Auchroisk,auchroisk,Scotland,733,6276,84.72
+26,Aultmore,aultmore,Scotland,940,8671,85.19
+27,Badachro Distillery,badachro,Scotland,1,1,76.0
+28,Balblair,balblair,Scotland,664,11464,86.07
+29,Ballindalloch,ballindalloch,Scotland,0,24,90.77
+30,Balmenach,balmenach,Scotland,633,4795,85.18
+31,Balvenie,balvenie,Scotland,3548,29326,86.42
+32,Banff,banff,Scotland,173,3071,88.32
+33,Benachie Distillery,benachie,Scotland,2,0,0.0
+34,Benmore Distillery,benmore,Scotland,0,0,0.0
+35,Ben Nevis,ben_nevis,Scotland,1752,38671,86.64
+36,BenRiach,benriach,Scotland,1862,41353,86.01
+37,Benrinnes,benrinnes,Scotland,1418,16850,85.58
+38,Benromach,benromach,Scotland,559,15639,85.87
+39,Ben Wyvis,ben_wyvis,Scotland,18,280,89.37
+40,Ben Wyvis / Ferintosh,ben_wyvis_/_ferintosh,Scotland,2,2,92.0
+41,Bladnoch,bladnoch,Scotland,954,9482,85.42
+42,Blair Athol,blair_athol,Scotland,1134,14401,85.57
+43,Bowmore,bowmore,Scotland,3679,83089,87.08
+44,Braeval,braeval,Scotland,531,3950,85.29
+45,Broombrae Distillery,broombrae,Scotland,0,0,0.0
+46,Brora,brora,Scotland,278,10393,89.85
+47,Bruichladdich,bruichladdich,Scotland,3871,101651,86.84
+48,Bunnahabhain,bunnahabhain,Scotland,3675,71628,86.44
+49,Burnside Distillery,burnside,Scotland,0,0,0.0
+50,Caledonian,caledonian,Scotland,105,1032,87.35
+51,Caledonian Distillery,caledonian,Scotland,0,0,0.0
+52,Cambus,cambus,Scotland,290,2728,86.47
+53,Cameronbridge,cameronbridge,Scotland,368,3662,85.57
+54,Campbeltown Distillery,campbeltown,Scotland,0,0,0.0
+55,Caol Ila,caol_ila,Scotland,5834,77988,86.82
+56,Caperdonich,caperdonich,Scotland,597,9268,87.93
+57,Cardhu,cardhu,Scotland,209,6014,82.42
+58,Carsebridge,carsebridge,Scotland,115,1204,87.83
+59,Chain Pier,chain_pier,Scotland,2,9,85.84
+60,Chichibu,chichibu,Japan,535,7059,88.62
+61,Chita,chita,Japan,43,881,84.84
+62,Chugoku Jozo,chugoku_jozo,Japan,18,512,80.52
+63,Clutha Distillery,clutha,Scotland,0,0,0.0
+64,Clynelish,clynelish,Scotland,2303,46126,86.98
+65,Coleburn,coleburn,Scotland,105,1265,87.06
+66,Convalmore,convalmore,Scotland,150,2282,87.06
+67,Corry (Broadford),corry_(broadford),Scotland,0,0,0.0
+68,Crafty Distillery,crafty,Scotland,0,0,0.0
+69,Cragganmore,cragganmore,Scotland,748,9471,85.26
+70,Craigellachie,craigellachie,Scotland,1313,13158,84.97
+71,Daftmill,daftmill,Scotland,51,2760,88.24
+72,Daftmill Distillery,daftmill,Scotland,4,271,88.4
+73,Daill,daill,Scotland,0,0,0.0
+74,Dailuaine,dailuaine,Scotland,1145,13935,85.31
+75,Dalaruan Distillery,dalaruan,Scotland,6,10,78.34
+76,Dalintober Distillery,dalintober,Scotland,0,0,0.0
+77,Dallas Dhu,dallas_dhu,Scotland,359,2829,87.88
+78,Dalmore,dalmore,Scotland,929,16241,85.58
+79,Dalmunach,dalmunach,Scotland,66,473,84.88
+80,Dalwhinnie,dalwhinnie,Scotland,206,7181,83.6
+81,Deanston,deanston,Scotland,567,16397,85.35
+82,Dornoch,dornoch,Scotland,1,0,0.0
+83,Dornoch Distillery,dornoch,Scotland,26,235,84.91
+84,Drumore Distillery,drumore,Scotland,0,0,0.0
+85,Dufftown,dufftown,Scotland,505,6310,84.25
+86,Dumbarton,dumbarton,Scotland,120,940,86.24
+87,Dundashill,dundashill,Scotland,1,0,0.0
+88,Eden Mill,eden_mill,Scotland,45,322,83.19
+89,Edradour,edradour,Scotland,1702,25109,84.85
+90,Eigashima Shuzo,eigashima_shuzo,Japan,151,1176,83.03
+91,Falkirk Distillery Company,falkirk__company,Scotland,1,1,82.0
+92,Fettercairn,fettercairn,Scotland,696,8003,84.46
+93,Fuji Gotemba,fuji_gotemba,Japan,105,499,84.35
+94,Fukano Distillery,fukano,Japan,13,7,81.93
+95,Garnheath,garnheath,Scotland,38,378,87.23
+96,Gartbreck Distillery,gartbreck,Scotland,0,0,0.0
+97,Girvan,girvan,Scotland,312,2705,84.42
+98,Glen Albyn,glen_albyn,Scotland,197,1676,87.74
+99,Glenallachie,glenallachie,Scotland,1185,27236,85.86
+100,Glenburgie,glenburgie,Scotland,910,11905,86.2
+101,Glencadam,glencadam,Scotland,510,7556,85.88
+102,Glendronach,glendronach,Scotland,1683,73902,88.04
+103,Glendullan,glendullan,Scotland,344,4406,84.11
+104,Glen Elgin,glen_elgin,Scotland,789,12195,86.14
+105,Glenesk,glenesk,Scotland,103,1429,87.01
+106,Glenfarclas,glenfarclas,Scotland,2546,56875,87.8
+107,Glenfiddich,glenfiddich,Scotland,1433,29246,84.82
+108,Glen Flagler,glen_flagler,Scotland,43,394,83.79
+109,Glenfoyle,glenfoyle,Scotland,1,0,0.0
+110,Glenfyne (Glendarroch Glenglip),glenfyne_(glendarroch_glenglip),Scotland,1,8,91.33
+111,Glen Garioch,glen_garioch,Scotland,961,17643,85.91
+112,Glenglassaugh,glenglassaugh,Scotland,640,15920,87.23
+113,Glengoyne,glengoyne,Scotland,1122,26112,86.11
+114,Glen Grant,glen_grant,Scotland,1972,24003,87.1
+115,Glengyle (Kilkerran),kilkerran,Scotland,166,9473,85.71
+116,Glen Keith,glen_keith,Scotland,646,11656,86.9
+117,Glenkinchie,glenkinchie,Scotland,203,4924,83.42
+118,Glenlivet,glenlivet,Scotland,2489,32678,86.18
+119,Glenlochy,glenlochy,Scotland,119,1771,89.91
+120,Glenlossie,glenlossie,Scotland,748,8838,86.19
+121,Glen Mhor,glen_mhor,Scotland,248,2480,87.19
+122,Glenmorangie,glenmorangie,Scotland,1024,32148,85.0
+123,Glen Moray,glen_moray,Scotland,1633,18624,85.47
+124,Glen Nevis Distillery,glen_nevis,Scotland,0,0,0.0
+125,Glen Ord,glen_ord,Scotland,555,7596,85.37
+126,Glenramskill Distillery,glenramskill,Scotland,0,0,0.0
+127,Glenrothes,glenrothes,Scotland,2032,28355,86.28
+128,Glen Scotia,glen_scotia,Scotland,1116,20238,85.58
+129,Glenside Distillery,glenside,Scotland,0,0,0.0
+130,Glen Spey,glen_spey,Scotland,402,3743,84.34
+131,Glentauchers,glentauchers,Scotland,1046,11425,85.89
+132,Glenturret,glenturret,Scotland,772,9274,85.65
+133,Glenugie,glenugie,Scotland,134,1561,89.23
+134,Glenury Royal,glenury_royal,Scotland,122,2569,88.98
+135,GlenWyvis Distillery,glenwyvis,Scotland,6,106,83.97
+136,Gyokusendo Shuzo,gyokusendo_shuzo,Japan,2,1,78.0
+137,Hakushu,hakushu,Japan,221,3307,87.46
+138,Hanyu,hanyu,Japan,205,3527,87.91
+139,Hazelburn Distillery,hazelburn,Scotland,1,1,89.0
+140,Helios Distillery,helios,Japan,10,93,79.05
+141,Highland Distillery,highland,Scotland,0,0,0.0
+142,Highland Park,highland_park,Scotland,3170,59134,87.25
+143,Holy Distillery,holy,Taiwan,11,5,73.89
+144,Holyrood Distillery,holyrood,Scotland,20,36,79.67
+145,Imperial,imperial,Scotland,659,7950,86.95
+146,InchDairnie,inchdairnie,Scotland,8,121,85.1
+147,Inchgower,inchgower,Scotland,696,9374,85.53
+148,Invergordon,invergordon,Scotland,682,7969,86.76
+149,Inverleven,inverleven,Scotland,138,885,86.31
+150,Isle of Harris Distillers Ltd.,isle_of_harris_distillers_ltd.,Scotland,0,0,0.0
+151,Isle of Jura,isle_of_jura,Scotland,917,16127,84.03
+152,Kagoshima,kagoshima,Japan,6,101,87.1
+153,Kaikyo,kaikyo,Japan,4,33,80.69
+154,Kaikyo Distillery,kaikyo,Japan,5,115,79.3
+155,Kanosuke,kanosuke,Japan,3,3,84.0
+156,Kanosuke Distillery,kanosuke,Japan,38,186,84.36
+157,Karuizawa,karuizawa,Japan,729,9643,88.38
+158,Kavalan,kavalan,Taiwan,3259,15850,87.23
+159,Kawasaki,kawasaki,Japan,31,415,90.02
+160,Kilchoman,kilchoman,Scotland,1337,28498,86.04
+161,Killyloch,killyloch,Scotland,4,59,88.18
+162,Kimbland,kimbland,Scotland,0,0,0.0
+163,Kinclaith,kinclaith,Scotland,43,276,87.22
+164,Kingsbarns Distillery,kingsbarns,Scotland,57,1146,84.12
+165,Kininvie,kininvie,Scotland,54,2447,83.15
+166,Kinloch Distillery,kinloch,Scotland,0,0,0.0
+167,Kintyre Distillery,kintyre,Scotland,0,0,0.0
+168,Knockando,knockando,Scotland,411,4298,84.06
+169,Knockdhu,knockdhu,Scotland,305,7463,84.59
+170,Kuju,kuju,Japan,1,0,0.0
+171,"Kumesen Distillery Co., Ltd.","kumesen__co.,_ltd.",Japan,16,50,87.53
+172,Kyoto Miyako,kyoto_miyako,Japan,3,0,0.0
+173,Ladyburn,ladyburn,Scotland,96,872,87.79
+174,Lagavulin,lagavulin,Scotland,733,43793,88.01
+175,Lagg,lagg,Scotland,3,26,80.57
+176,Lagg Distillery,lagg,Scotland,12,252,83.7
+177,Laphroaig,laphroaig,Scotland,3331,86339,87.49
+178,Linkwood,linkwood,Scotland,2265,20657,86.06
+179,Littlemill,littlemill,Scotland,662,16428,87.18
+180,Lochead Distillery,lochead,Scotland,0,0,0.0
+181,Loch Ewe Distillery,loch_ewe,Scotland,14,13,69.59
+182,Lochhead,lochhead,Scotland,1,0,0.0
+183,Lochindaal (Closed),lochindaal_(closed),Scotland,6,0,0.0
+184,Lochlea,lochlea,Scotland,8,496,84.41
+185,Loch Lomond,loch_lomond,Scotland,1391,16027,83.98
+186,Lochruan Distillery,lochruan,Scotland,0,0,0.0
+187,Lochside,lochside,Scotland,223,4901,88.46
+188,Lochside Distillery,lochside,Scotland,1,0,0.0
+189,Lone Wolf,lone_wolf,Scotland,0,0,0.0
+190,Longmorn,longmorn,Scotland,1613,22229,87.36
+191,Longrow Distillery,longrow,Scotland,2,1,83.0
+192,Lossit,lossit,Scotland,1,11,80.22
+193,Lost Loch,lost_loch,Scotland,0,0,0.0
+194,Macallan,macallan,Scotland,3709,51938,88.22
+195,Macduff,macduff,Scotland,1040,9167,85.09
+196,Malt Mill,malt_mill,Scotland,2,0,0.0
+197,Mannochmore,mannochmore,Scotland,529,6467,84.94
+198,Matsui Shuzo,matsui_shuzo,Japan,61,548,81.48
+199,Meadowburn Distillery,meadowburn,Scotland,0,0,0.0
+200,Meadownburn Distillery,meadownburn,Scotland,0,0,0.0
+201,Millburn,millburn,Scotland,120,1990,88.63
+202,Miltonduff,miltonduff,Scotland,1097,11676,85.8
+203,Miyagikyo,miyagikyo,Japan,371,7845,86.02
+204,Miyashita Sake Brewery,miyashita_sake_brewery,Japan,9,25,86.64
+205,Monde Shuzou,monde_shuzou,Japan,9,315,64.56
+206,Mortlach,mortlach,Scotland,2157,31750,86.23
+207,Mossfield Distillery,mossfield,Scotland,0,0,0.0
+208,Mountain Dew Distillery,mountain_dew,Scotland,0,0,0.0
+209,Mulindry,mulindry,Scotland,0,0,0.0
+210,Nagahama,nagahama,Japan,65,194,85.47
+211,Nantou Distillery,nantou,Taiwan,317,917,85.68
+212,Nc'nean,nc'nean,Scotland,4,5,84.5
+213,Ncn'ean,ncn'ean,Scotland,0,0,0.0
+214,Newton,newton,Scotland,0,0,0.0
+215,Niigata Distillery,niigata,Japan,1,4,41.75
+216,Nishinomiya,nishinomiya,Japan,31,365,87.26
+217,North British,north_british,Scotland,498,4255,84.85
+218,North of Scotland,north_of_scotland,Scotland,89,980,87.49
+219,North Point,north_point,Scotland,0,0,0.0
+220,North Port,north_port,Scotland,124,1227,87.34
+221,Oban,oban,Scotland,240,9093,85.35
+222,Octomore,octomore,Scotland,0,10,88.17
+223,Octomore (Closed),octomore_(closed),Scotland,0,10,88.17
+224,Ohishi Distillery,ohishi,Japan,18,22,81.85
+225,Old Pulteney,old_pulteney,Scotland,669,12566,85.79
+226,Osuzuyama,osuzuyama,Japan,2,0,0.0
+227,Parkmore,parkmore,Scotland,3,1,87.0
+228,Pittyvaich,pittyvaich,Scotland,148,2292,85.81
+229,Port Charlotte,port_charlotte,Scotland,1,3,86.67
+230,Port Charlotte (Closed),port_charlotte_(closed),Scotland,1,3,86.67
+231,Port Dundas,port_dundas,Scotland,305,2934,85.44
+232,Port Ellen,port_ellen,Scotland,1453,25470,89.26
+233,Pulteney,pulteney,Scotland,824,17081,85.99
+234,Raasay,raasay,Scotland,24,130,82.16
+235,Rieclachan Distillery,rieclachan,Scotland,0,0,0.0
+236,Rokkosan Distillery,rokkosan,Japan,1,0,0.0
+237,Rosebank,rosebank,Scotland,697,6280,86.95
+238,Roseisle,roseisle,Scotland,3,271,86.85
+239,Royal Brackla,royal_brackla,Scotland,675,5416,84.96
+240,Royal Lochnagar,royal_lochnagar,Scotland,247,3843,84.62
+241,Sakurao,sakurao,Japan,0,13,79.18
+242,Sakurao Distillery,sakurao,Japan,17,63,84.04
+243,Sasanokawa Shuzo,sasanokawa_shuzo,Japan,50,368,85.69
+244,Saxa Vord,saxa_vord,Scotland,4,16,83.38
+245,Scapa,scapa,Scotland,448,5369,85.17
+246,Shinshu Mars,shinshu_mars,Japan,205,1590,86.5
+247,Shinzato Shuzo,shinzato_shuzo,Japan,1,3,78.33
+248,Shirakawa,shirakawa,Japan,2,3,86.5
+249,Shizuoka,shizuoka,Japan,87,363,87.38
+250,Speyburn,speyburn,Scotland,350,3851,83.91
+251,Speyside Distillery,speyside,Scotland,450,4285,84.27
+252,Springbank,springbank,Scotland,5093,110076,88.46
+253,Springside Distillery,springside,Scotland,0,0,0.0
+254,Starlaw,starlaw,Scotland,1,4,65.5
+255,Stirling Distillery,stirling,Scotland,0,0,0.0
+256,St Magdalene,st_magdalene,Scotland,212,2787,89.17
+257,Stornoway (Ness),stornoway_(ness),Scotland,0,0,0.0
+258,Strathclyde,strathclyde,Scotland,287,2475,85.87
+259,Strathearn,strathearn,Scotland,100,366,83.93
+260,Strathearn Distillery,strathearn,Scotland,30,87,83.22
+261,Stratheden,stratheden,Scotland,3,11,79.63
+262,Strathisla,strathisla,Scotland,727,9968,87.67
+263,Strathmill,strathmill,Scotland,578,5928,84.65
+264,Stromness,stromness,Scotland,3,8,88.0
+265,Taichung,taichung,Taiwan,3,0,0.0
+266,Talisker,talisker,Scotland,1075,47317,86.44
+267,Tallant,tallant,Scotland,0,0,0.0
+268,Tamdhu,tamdhu,Scotland,708,11681,85.81
+269,Tamnavulin,tamnavulin,Scotland,296,3971,84.64
+270,Teaninich,teaninich,Scotland,725,10919,85.83
+271,The Borders Distillery,the_borders,Scotland,2,5,80.17
+272,The Cairn,the_cairn,Scotland,0,0,0.0
+273,The Clydeside Distillery,the_clydeside,Scotland,11,198,80.6
+274,The Glasgow Distillery Co.,the_glasgow__co.,Scotland,57,1268,83.96
+275,The Lindores Distilling Co. Ltd.,the_lindores_distilling_co._ltd.,Scotland,73,1234,84.55
+276,The Mars Shinshu Distillery,the_mars_shinshu,Japan,242,2354,86.57
+277,THE ONTAKE DISTILLERY,the_ontake_distillery,Japan,0,0,0.0
+278,Toberanrigh Distillery,toberanrigh,Scotland,0,0,0.0
+279,Tobermory,tobermory,Scotland,2095,47557,86.49
+280,Tomatin,tomatin,Scotland,1458,27073,85.82
+281,Tomintoul,tomintoul,Scotland,566,9013,85.11
+282,Torabhaig,torabhaig,Scotland,16,1446,86.72
+283,Tormore,tormore,Scotland,611,7528,85.95
+284,Toulvaddie,toulvaddie,Scotland,0,0,0.0
+285,Tsunuki,tsunuki,Japan,30,254,86.69
+286,Tullibardine,tullibardine,Scotland,868,10116,84.42
+287,Union Distillery,union,Scotland,0,0,0.0
+288,Wakatsuru Distillery,wakatsuru,Japan,17,44,86.18
+289,Wakatsuru Saburomaru Distillery,wakatsuru_saburomaru,Japan,49,125,84.63
+290,West Highland Distillery,west_highland,Scotland,0,0,0.0
+291,Wolfburn,wolfburn,Scotland,208,5642,85.32
+292,Yamaga,yamaga,Japan,2,0,0.0
+293,Yamazaki,yamazaki,Japan,600,8482,87.96
+294,Yoichi,yoichi,Japan,710,9644,86.93
+295,Yuza Distillery,yuza,Japan,2,27,85.71
